@@ -31,7 +31,7 @@
 
 ### ОТВЕТ
 <p align="center">
-  <img src=".png/3.png">
+  <img src="./png/3.png">
 </p>
 
 ### Developer
