@@ -14,7 +14,7 @@
 
 ### ОТВЕТ
 <p align="center">
-  <img src=".png/1.png">
+  <img src="./png/1.png">
 </p>
 <p align="center">
   <img src="./png/2.png">
@@ -43,11 +43,11 @@
 
 ### ОТВЕТ
 <p align="center">
-  <img src=".png/4.png">
+  <img src="./png/4.png">
 </p>
 
 <p align="center">
-  <img src=".png/5.png">
+  <img src="./png/5.png">
 </p>
 
 
@@ -60,7 +60,7 @@
 
 ### ОТВЕТ
 <p align="center">
-  <img src=".png/6.png">
+  <img src="./png/6.png">
 </p>
 
 
@@ -75,7 +75,7 @@
 
 ### ОТВЕТ
 <p align="center">
-  <img src=".png/7.png">
+  <img src="./png/7.png">
 </p>
 
 ### Важно 
